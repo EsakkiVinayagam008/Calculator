@@ -15,7 +15,7 @@ const Mainpage = () => {
         display:'inline-block',
         position:'absolute',
         top:'250px',
-        right:'500px'
+      left:'830px'
     }
   return (
     <>
